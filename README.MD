@@ -17,9 +17,9 @@
 <h3> Liste de produits en utilisant  h2 </h3>
 <img src="captures/capture10.png">
 <h3> Liste de produits sous format Jason </h3>
-<img src="captures/capture11.png">
+<img src="captures/Capture11.png">
 <h3> Liste de produits sous format Jason en specifiant l'idée du produit qu'on souhaite affiché (Dans ce cas id=2) </h3>
-<img src="captures/capture12.png">
+<img src="captures/Capture12.png">
 <h3> Sortie du projet  </h3>
 <img src="captures/img.png">
 <img src="captures/img_1.png">
